@@ -1,6 +1,9 @@
 You can saved your model in this folder
 I've ran this bidirectional model with 2 layers in each, encoder and decoder with 75000 epoch on one 1080 nvidia GTX:
 
+encoder link for download: https://www.mediafire.com/?vdvmr26wuamz4rx
+decoder link for download: https://www.mediafire.com/?e6b91ee79nav09z
+
 Reading lines...
 Read 135842 sentence pairs
 Trimmed to 11786 sentence pairs
