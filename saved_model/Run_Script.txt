@@ -1,0 +1,65 @@
+You can saved your model in this folder
+I've ran this bidirectional model with 2 layers in each, encoder and decoder with 75000 epoch on one 1080 nvidia GTX:
+
+Reading lines...
+Read 135842 sentence pairs
+Trimmed to 11786 sentence pairs
+Counting words...
+Counted words:
+eng 3117
+eng 3117
+['you re preaching to the choir .', 'you re preaching to the choir .']
+6m 7s (- 85m 40s) (5000 6%) 2.3566
+10m 12s (- 66m 22s) (10000 13%) 1.2780
+14m 16s (- 57m 6s) (15000 20%) 0.8542
+18m 23s (- 50m 35s) (20000 26%) 0.5079
+22m 29s (- 44m 58s) (25000 33%) 0.3239
+26m 34s (- 39m 51s) (30000 40%) 0.2202
+30m 39s (- 35m 1s) (35000 46%) 0.1568
+34m 44s (- 30m 24s) (40000 53%) 0.1191
+38m 50s (- 25m 53s) (45000 60%) 0.0889
+42m 55s (- 21m 27s) (50000 66%) 0.0640
+47m 1s (- 17m 5s) (55000 73%) 0.0452
+51m 7s (- 12m 46s) (60000 80%) 0.0336
+55m 10s (- 8m 29s) (65000 86%) 0.0233
+59m 16s (- 4m 14s) (70000 93%) 0.0335
+63m 23s (- 0m 0s) (75000 100%) 0.0264
+> i m feeling good .
+= i m feeling good .
+< i m feeling good . <EOS>
+
+> she is nothing but a child .
+= she is nothing but a child .
+< she is nothing but a child . <EOS>
+
+> they re strong .
+= they re strong .
+< they re strong . <EOS>
+
+> she s a supermodel .
+= she s a supermodel .
+< she s a supermodel . <EOS>
+
+> i m pooped .
+= i m pooped .
+< i m pooped . <EOS>
+
+> i m sure you re very busy .
+= i m sure you re very busy .
+< i m sure you re very busy . <EOS>
+
+> she is really into knitting .
+= she is really into knitting .
+< she is really into knitting . <EOS>
+
+> i m in no hurry .
+= i m in no hurry .
+< i m in no hurry . <EOS>
+
+> she is great at skiing .
+= she is great at skiing .
+< she is at at skiing . <EOS>
+
+> i m going back home tomorrow .
+= i m going back home tomorrow .
+< i m going back home tomorrow . <EOS>
